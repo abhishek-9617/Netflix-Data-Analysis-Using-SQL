@@ -89,6 +89,25 @@ This project presents a comprehensive analysis of a fictional Netflix dataset us
 
 ---
 
+## 📸 Screenshot
+
+To include visual proof of your results (e.g., table previews or SQL output), save a screenshot and place it in an `outputs/` folder:
+
+![Sample Output](outputs/plots/fig1.png)
+
+![Sample Output](outputs/plots/fig2.png)
+
+![Sample Output](outputs/plots/fig3.png)
+
+![Sample Output](outputs/plots/fig4.png)
+
+## 📌 Author
+
+**Abhishek Bhardwaj** 
+
+[Linkedin Link](https://www.linkedin.com/in/abhishekbhardwaj28)  |  [GitHub Link](https://github.com/abhishek-9617)
+
+
 ## 📌 Disclaimer
 
 This project uses fictional data for educational and learning purposes only.
